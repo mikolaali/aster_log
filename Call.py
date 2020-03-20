@@ -19,4 +19,6 @@ class Msg():
     # ast_mod=''
     # ast_mod_msg=''
 
+class Line():
+    pass
 
